@@ -1,0 +1,96 @@
+#!/usr/bin/perl
+
+use v5.32;
+use strict;
+use warnings;
+
+use JSON::PP;
+use LWP::UserAgent;
+
+my $input_file = shift or die "Must specify input file";
+my $output_file = shift or die "Must specify output file";
+my $starting_line = shift || 0;
+my $stopping_line = shift || 0;
+my $write_mode = $starting_line ? '>>' : '>';
+
+my @copyrights_we_failed_to_clean;
+my @copyrights_without_holders;
+
+open my $ifh, '<', $input_file or die "Failed to open $input_file for reading";
+open my $ofh, $write_mode, $output_file or die "Failed to open $output_file for writing";
+$ofh->autoflush(1);
+
+scalar <$ifh> while $. < $starting_line - 1;
+
+
+my $ua = LWP::UserAgent->new();
+$ua->default_header('x-goog-user-project' => 'ai-copyright-cleaning');
+$ua->default_header('Content-Type' => 'application/json; charset=utf-8');
+$ua->default_header('Authorization' => 'Bearer ' . `gcloud auth application-default print-access-token`);
+
+my $component;
+while (my $line = <$ifh>) {
+
+	last if $stopping_line
+		&& $. > $stopping_line;
+
+	chomp $line;
+	if ($line =~ /^\S/) {
+		$component = $line;
+		say $ofh $component;
+		next;
+	}	
+	my $copyright = $line;
+	say $ofh '     ', clean_copyright($ua, $copyright);
+}
+
+
+warn "ERROR: $_\n" for @copyrights_we_failed_to_clean;
+warn "NO HOLDER: $_\n" for @copyrights_without_holders;
+
+#----------------------------------------------------------------------------
+
+sub clean_copyright {
+	my ($ua, $copyright) = @_;
+
+	my $post_json = {
+		encodingType => 'UTF8',
+		document => {
+			type => 'PLAIN_TEXT',
+			content => $copyright
+		}
+	};
+	
+	my $url = 'https://language.googleapis.com/v1/documents:analyzeEntities';
+	my $res = $ua->post($url, Content => encode_json($post_json));
+
+	if (not $res->is_success) {
+		push @copyrights_we_failed_to_clean, $copyright;
+		return $copyright;
+	}
+
+	my (@dates, @persons, @organizations);
+	my $entities = decode_json($res->content())->{entities};
+	for my $entity (@{$entities}) {
+		my $type = $entity->{type};
+		my $name = $entity->{name};
+
+		no warnings qw(experimental);
+
+		given($type) {
+			when('DATE')         {push @dates, $name }
+			when('PERSON')       {push @persons, $name }
+			when('ORGANIZATION') {push @organizations, $name}
+		}
+	}
+
+	if (not (@persons || @organizations)) {
+		push @copyrights_without_holders, $copyright;
+		return;
+	}
+
+	my $dates = join(@dates == 2 ? '-' : ', ',  @dates);
+	my $holder = $persons[0] || $organizations[0];
+
+	return "Copyright (c) $dates $holder";
+}

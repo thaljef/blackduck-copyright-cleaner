@@ -1,0 +1,1000 @@
+ADAL 2.6.0 cocoapods:ADAL:2.6.0x`
+     Copyright (c)  Microsoft Corporation
+     Copyright (c) 2014 Microsoft
+     Copyright (c)  Microsoft Corporation
+     Copyright (c)  Microsoft
+ADAL 4.0.4 cocoapods:ADAL:4.0.4
+     Copyright (c)  Microsoft Corporation
+     Copyright (c)  Microsoft Corporation
+AFNetworking 4.0.1 cocoapods:AFNetworking:4.0.1
+     
+     Copyright (c) 2011-2020 Alamofire Software Foundation
+     Copyright (c) 2020 Alamofire Software Foundation
+     
+AFNetworking 4.0.1 github:AFNetworking/AFNetworking:4.0.1
+     
+     Copyright (c) 2011-2020 Alamofire Software Foundation
+     Copyright (c) 2020 Alamofire Software Foundation
+     
+ASIHTTPRequest v1.8 github:pokeb/asi-http-request:v1.8
+     Copyright (c) 2009 Donoho Design Group, LLC
+     
+     Copyright (c) 2010 Seeing Interactive
+     
+     
+     
+     Copyright (c) 2007-2010 All-Seeing Interactive
+     Copyright (c) 2008 Seeing Interactive Ltd
+     Copyright (c) 2008-2009 All-Seeing Interactive
+     Copyright (c) 2009 Seeing Interactive
+     Copyright (c) 2008 Seeing Interactive
+     Copyright (c) 2009 Apple Inc
+AWS Mobile SDK for iOS 0.1.0 cocoapods:AWSLM:0.1.0
+     Copyright (c) 2010-2017 Amazon.com, Inc.
+     
+     Copyright (c) 2012 Justin Spahr-Summers
+     
+     
+     Copyright (c) 2015 Twitter, Inc.
+     Copyright (c) 2010 Thomas R
+     Copyright (c) 2015 Specta Team
+     Copyright (c) 2017 Amazon.com, Inc.
+     Copyright (c) 2012 Karl Stenerud
+     Copyright (c) 2011 Kishikawa Katsumi
+     
+     Copyright (c) 2010-2014 Sam Soffes
+     
+     Copyright (c) 2017 Stan Liu
+     
+     
+     Copyright (c) 2016 Amazon.com, Inc.
+     
+     Copyright (c) 2010-2016 Deusty, LLC
+     
+     
+     Copyright (c) 2011 Flying Meat Inc
+     Copyright (c) 2012 Peter Jihoon Kim
+     
+     Copyright (c) 2011 Bitswift
+     
+     
+     Copyright (c) 2012-2014 Specta Team
+     Copyright (c) 2017 Stan Liu
+     
+     Copyright (c) 2012 Justin Spahr-Summers
+     
+     Copyright (c) 2014 Facebook, Inc.
+     
+     Copyright (c) 2010-2016 Sam Soffes
+     Copyright (c) 2015 Robert Ryan
+     Copyright (c) 2013-2014 Sam Soffes
+Adium 1.5.7 unknown:undefined
+     Copyright (c) 2007 Andy Matuschak
+     
+     Copyright (c) 1987-1988 Massachusetts Institute of Technology
+     Copyright (c) 2006 Spin Media
+     Copyright (c) 1987, 1988, 1995 Massachusetts Institute of Technology
+     Copyright (c) 2004 Behdad Esfahbod
+     Copyright (c) 2009 Team
+     
+     Copyright (c) 1999-2000 Red Hat Inc
+     Copyright (c) 2009 Matt Gallagher
+     Copyright (c) 2010 __MyCompanyName__
+     Copyright (c) 2001 Sid Vicious
+     Copyright (c) 2004 Andrew Wellington.
+     Copyright (c) 2013 Nicolas Seriot
+     Copyright (c) 2006 Andy Matuschak
+     Copyright (c) 2006 Peter Hosey
+     Copyright (c) 2011 John Engelhart
+     Copyright (c) 2009 Intel Corp
+     Copyright (c) 2004 Tor Lillqvist
+     Copyright (c) 2000-2001 Red Hat, Inc.
+     Copyright (c) 1986 Ken Raeburn
+     Copyright (c) 1987, 1988, 1991 Massachusetts Institute of Technology
+     Copyright (c) 2006 Andy Matuschak
+     Copyright (c) 1984, 1989, 1990, 2000, 2001, 2002, 2003, 2004 Free Software Foundation, Inc.
+     Copyright (c) 2011 Red Hat, Inc.
+     Copyright (c) 1987, 1988, 1989 Massachusetts Institute of Technology
+     Copyright (c) 2007-2008 Ryan Lortie
+     Copyright (c) 1987-1988 MIT Student Information Processing Board
+     Copyright (c) 1999-2000 Scott Wimer
+     Copyright (c) 2005 Spin Media
+     Copyright (c) 2006-2007 Contributors
+     
+     Copyright (c) 2007 Andreas Monitzer
+     Copyright (c) 2012 Nicolas Seriot
+     Copyright (c) 2008 Clemens
+     
+     Copyright (c) 1987-1988 MIT Student Information Processing Board
+     Copyright (c) 2005-2006 Colin Barrett
+     Copyright (c) 1997, 1998, 2000, 2001, 2004, 2010 Steve Nygard
+     Copyright (c) 2005 Bartosz Oler
+     
+     Copyright (c) 2012 Anthony Green
+     Copyright (c) 2000 Red Hat, Inc.
+     
+     Copyright (c) 2011 __MyCompanyName__
+     
+     Copyright (c) 1988 Massachusetts Institute of Technology
+     Copyright (c) 2004-2005 Behdad Esfahbod
+     
+     
+     
+     Copyright (c) 1999-2000 Tom Tromey
+     Copyright (c) 2000-2005 Red Hat, Inc.
+     Copyright (c) 1987-1991 Massachusetts Institute of Technology
+     
+     Copyright (c) 2004 Alceste Scalas
+     Copyright (c) 2008 Evan Schoenberg
+     Copyright (c) 1987, 1988, 1991 Massachusetts Institute of * Technology
+     
+     Copyright (c) 2004-2008 Ian Goldberg
+     Copyright (c) 2006-2008 Red Hat, Inc.
+     
+     Copyright (c) 2003 Timothy Ringenbach
+     Copyright (c) 1987-1991 Massachusetts Institute of Technology
+     Copyright (c) 1998-2000 Red Hat, Inc.
+     Copyright (c) 2010 Collabora Ltd
+     Copyright (c) 2008 Christian Kellner
+     Copyright (c) 1991 Massachusetts Institute of Technology
+     Copyright (c) 2011 Canonical Ltd
+     
+     
+     Copyright (c) 2007 plumber
+     
+     
+     Copyright (c) 2008 Team
+     Copyright (c)  Eric Young
+     Copyright (c) 2006 Ofri Wolfus
+     Copyright (c) 2005-2007 Marco Barisione
+     Copyright (c) 1987 Massachusetts Institute of Technology
+     
+     Copyright (c) 2005 Tim Janik
+     Copyright (c) 2003 David Kocher
+     Copyright (c) 1996 Massachusetts Institute
+     Copyright (c) 2009 Red Hat, Inc.
+     Copyright (c) 1996, 2003, 2010 Red Hat, Inc.
+     Copyright (c) 1987, 1988, 1989 Massachusetts Institute of Technology
+     
+     Copyright (c) 2008-2010 Red Hat, Inc.
+     Copyright (c) 2008 person
+     Copyright (c) 2009-2010 Christian
+     Copyright (c) 2010 Red Hat, Inc.
+     Copyright (c) 2006 Kent Sutherland
+     Copyright (c) 2009 Red Hat, Inc.
+     Copyright (c) 1998 Tim Janik
+     Copyright (c) 2001 Hans Breuer
+     
+     Copyright (c) 1995-1997 Spencer Kimball
+     Copyright (c) 1995-1997 Peter Mattis
+     Copyright (c) 1998, 1999, 2000 Tim Janik
+     Copyright (c) 2010 Red Hat, Inc.
+     Copyright (c) 1997, 1999, 2000, 2001 Tim Janik
+     
+     Copyright (c) 2001-2009 Wojtek Kaniewski
+     Copyright (c) 2005 Evan Schoenberg
+     Copyright (c) 1988-1991 Massachusetts Institute of Technology
+     Copyright (c) 2004 Anders Carlsson
+     
+     Copyright (c) 1999-2000 Dov Grobgeld
+     Copyright (c) 2003, 2008, 2010 Free Software Foundation, Inc.
+     Copyright (c) 2008 Free Software Foundation, Inc.
+     
+     Copyright (c) 2000 Red Hat, Inc.
+     Copyright (c) 1987-1991 Massachusetts Institute of Technology
+     
+     
+     Copyright (c) 2005 Andy Matuschak
+     
+     Copyright (c)  co
+     
+     Copyright (c) 1987-1991 Massachusetts Institute of Technology
+     Copyright (c) 2004 Matthias Clasen
+     
+     Copyright (c) 1987-1989 Student Information Processing Board
+     Copyright (c) 2003-2012 Ethan Blanton
+     Copyright (c) 2008 Christian Kellner
+     Copyright (c) 2004-2005 Andrew Wellington
+     Copyright (c)  M.I.T.
+     Copyright (c) 1987, 1988, 1989 MIT Student Information Processing * Board
+     
+     Copyright (c) 1987 Massachusetts Institute of Technology
+     Copyright (c) 1996 Massachusetts Institute of Technology
+     Copyright (c) 2012 Red Hat, Inc.
+     
+     Copyright (c) 2012 Collabora Ltd.
+     
+     Copyright (c) 2001, 2002, 2004 Behdad Esfahbod
+     Copyright (c) 2001 Behdad Esfahbod
+     
+     Copyright (c) 1990-1991 Massachusetts Institute of Technology
+     Copyright (c) 2005 Adium Team
+     Copyright (c) 1999-2000 Dov Grobgeld
+     Copyright (c) 2010 Intel Corp
+     Copyright (c) 2011 Ryan Lortie
+     Copyright (c) 1994 Consortium
+     Copyright (c) 2003-2005 Colin Percival
+     Copyright (c) 2010 Collabora, Ltd
+     Copyright (c) 2005 Behdad Esfahbod
+     Copyright (c) 2007 Emmanuele Bassi
+     
+     Copyright (c) 2001 Red Hat, Inc.
+     Copyright (c) 2004-2006 Lukhnos D. Liu
+     Copyright (c) 2001 Apple Computer, Inc.
+     Copyright (c) 2009 Red Hat
+     Copyright (c) 2006 Peter Hosey
+     Copyright (c) 2003 Christian
+     Copyright (c) 2003-2004 Lawrence E. Rosen
+     Copyright (c) 2002-2012 Free Software Foundation, Inc.
+     
+     Copyright (c) 1996, 2003, 2007, 2008 Red Hat, Inc.
+     Copyright (c) 2012 Nicolas Seriot
+     Copyright (c) 2003-2007 Free Software Foundation, Inc.
+     Copyright (c) 1987, 1988, 1991 Massachusetts Institute
+     
+     Copyright (c) 2005 Matthias Clasen
+     Copyright (c) 2007 plumber
+     Copyright (c) 2004 Brad Smith
+     Copyright (c) 2004 Sharif FarsiWeb, Inc
+     Copyright (c) 2005 Behdad Esfahbod
+     Copyright (c) 2007 OpenedHand Ltd
+     Copyright (c) 2007 Contributors
+     
+     Copyright (c) 2011 Anthony Green
+     Copyright (c) 2001-2002 Behdad Esfahbod
+     Copyright (c) 1995, 1997, 2002 Peter Mattis
+     Copyright (c) 1998, 1999, 2000, 2001 Tim Janik
+     
+     Copyright (c) 2004 Timothy Ringenbach
+     
+     Copyright (c) 1987 MIT Student Information Processing Board
+     Copyright (c) 2008 Red Hat, Inc.
+     Copyright (c) 1987, 1988, 1989 Massachusetts Institute of Technology
+     Copyright (c) 2011 Red Hat, Inc.
+     Copyright (c) 2008 __MyCompanyName__
+     Copyright (c) 2008 Evan Schoenberg
+     Copyright (c) 2011 John Engelhart
+     Copyright (c) 2005 __MyCompanyName__
+     Copyright (c) 1995, 1997, 1999 Peter Mattis
+     Copyright (c) 2006 Keith AndersonAll
+     Copyright (c) 2007 R. Tyler Ballance
+     Copyright (c) 2005-2006 Emmanuele Bassi
+     Copyright (c) 1987-1990 Massachusetts Institute of Technology
+     Copyright (c) 2005 Alexander Larsson
+     
+     
+     Copyright (c) 2011 Collabora, Ltd
+     
+     Copyright (c) 1996-1999 Free Software Foundation, Inc.
+     Copyright (c) 2006 plumber
+     Copyright (c) 2004-2007 Andrew Wellington
+     Copyright (c) 2010, 2000, 2001, 2002, 2003, 2004, 2006, 2007, 2008, 2009, 1998, 2011, 1999 Free Software Foundation, Inc.
+     Copyright (c) 1987, 1988, 1991 Massachusetts Institute of * Technology
+     Copyright (c) 2004-2005 Andrew Wellington
+     Copyright (c) 1989-1991 Free Software Foundation, Inc.
+     Copyright (c) 1995-1998 Eric Young
+     Copyright (c) 2004 Red Hat, Inc.
+     Copyright (c) 1991 Massachusetts Institute of Technology
+     Copyright (c) 2007 Adium Team
+     Copyright (c) 1995, 1997, 2000, 2012 Free Software Foundation, Inc.
+     Copyright (c) 2010 Collabora Ltd
+     Copyright (c) 2010 Collabora
+     Copyright (c) 2004 Sharif FarsiWeb, Inc.
+     Copyright (c) 2008 Ryan Lortie
+     
+     
+     Copyright (c) 2005 Andreas Mayer
+     
+     Copyright (c) 2009 Evan Schoenberg
+     
+     Copyright (c) 2001-2004 Unicode, Inc.
+     Copyright (c) 2005 Peter Hosey
+     Copyright (c) 1987-1988 Massachusetts Institute of Technology
+     
+     
+     Copyright (c) 2011 Collabora Ltd
+     Copyright (c) 1999 Free Software Foundation, Inc.
+     Copyright (c) 1988 Massachusetts Institute of Technology
+     Copyright (c) 2004 Sharif FarsiWeb, Inc
+     Copyright (c) 2006-2007 Red Hat, Inc.
+     
+     Copyright (c) 2011 Stef Walter
+     Copyright (c) 2010 Christian Kellner
+AppNexusSDK 3.2 cocoapods:AppNexusSDK:3.2
+     Copyright (c) 2014 Google Inc
+     Copyright (c) 2017 AppNexus
+     Copyright (c) 2010 MOSO Corporation
+     Copyright (c) 2014 Facebook, Inc.
+     
+     Copyright (c) 2011 2011 MoPub, Inc.
+     Copyright (c) 2015 InMobi
+     
+     Copyright (c) 2008-2014 Plausible Labs Cooperative, Inc.
+     Copyright (c) 2013 Vungle Inc
+     Copyright (c) 2010-2015 Flurry, Inc.
+     Copyright (c) 2010-2014 Flurry, Inc.
+     Copyright (c) 2010-2013 Flurry, Inc.
+     Copyright (c) 2011 Google
+     
+     Copyright (c) 2016 Google Inc
+     Copyright (c) 2015 Rubicon Project
+     
+     Copyright (c) 2011 MoPub Inc.
+     Copyright (c) 2009-2011 Petri Lehtinen
+     
+     
+     Copyright (c) 2013 Google Inc
+     Copyright (c) 2008 Dave Benson
+     
+     Copyright (c) 2011-2016 Square, Inc
+     Copyright (c) 2011 Square, Inc
+     Copyright (c) 2016 Google Inc
+     
+     
+     
+     
+     Copyright (c) 2011 Jonathan Wight
+     
+     
+     Copyright (c) 2012 MoPub, Inc.
+     
+     
+     Copyright (c) 2015 Google Inc
+     Copyright (c) 2015 Millennial Media, Inc.
+     
+     Copyright (c) 2014 Apple Inc
+     Copyright (c) 2012 Google Inc
+     
+     Copyright (c) 2009-2012 Flurry, Inc.
+     Copyright (c) 2015 Google Inc
+     Copyright (c) 2016 Millennial Media
+     Copyright (c) 2015 Lottadot LLC
+     Copyright (c) 2009-2013 Flurry, Inc.
+     Copyright (c) 2009-2014 Flurry, Inc.
+     Copyright (c) 2015 Google
+     
+     Copyright (c) 2014 AppNexus
+     
+     Copyright (c) 2017 Rubicon Project
+     Copyright (c)  authors
+     
+     Copyright (c) 2016 Google Inc
+     Copyright (c) 2013 Brian Nickel
+     Copyright (c) 2011 Google Inc
+Appcelerator Titanium Mobile 3_5_1_Alpha github:appcelerator/titanium_mobile:3_5_1_Alpha
+     
+     
+     Copyright (c) 2007 Edward Benson
+     Copyright (c) 1999 Sun Microsystems.
+     Copyright (c) 2010-2011 The Dojo Foundation
+     Copyright (c) 2009 Kevin Whinnery
+     Copyright (c) 2012-2013 contributors
+     
+     Copyright (c) 2013 Apple Inc
+     
+     
+     Copyright (c) 2010-2015 Appcelerator, Inc.
+     
+     Copyright (c) 2012-2014 Appcelerator, Inc.
+     
+     Copyright (c)  Isaac Z
+     Copyright (c) 2009-2014 Appcelerator, Inc.
+     Copyright (c) 2006-2008 Apple Inc
+     
+     Copyright (c) 2010-2011 Appcelerator, Inc.
+     Copyright (c) 2003-2007 Apache
+     Copyright (c) 1999-Dec 25 1999 Masanao Izumo
+     Copyright (c) 2012 contributors
+     Copyright (c)  Isaac Z
+     Copyright (c) 2000-2002 Paul Johnston
+     
+     Copyright (c) 2010-2013 Appcelerator, Inc.
+     
+     
+     Copyright (c) 2006-2008 project authors
+     Copyright (c) 2011 Appcelerator, Inc.
+     Copyright (c) 2013-2014 Appcelerator, Inc.
+     Copyright (c) 2009-2014 Appcelerator, Inc.
+     Copyright (c)  Appcelerator
+     Copyright (c) 2006 Apple Inc
+     Copyright (c) 2009-2010 Appcelerator, Inc.
+     Copyright (c) 2008-2009 Appcelerator
+     Copyright (c) 2007-2010 Anselm Kruis
+     Copyright (c) 2006-2007 Apple Computer, Inc.
+     Copyright (c) 2009-2012 Appcelerator, Inc.
+     Copyright (c) 2015 Appcelerator, Inc.
+     Copyright (c)  Node contributors
+     Copyright (c) 1999 Paul Eng
+     Copyright (c) 2012-2013 Chris Talkington
+     Copyright (c) 2009 Appcelerator, Inc.
+     Copyright (c) 2010-2012 Appcelerator, Inc.
+     
+     Copyright (c) 2014 Appcelerator, Inc.
+     
+     Copyright (c) 2010 Appcelerator, Inc.
+     Copyright (c) 2013 Appcelerator, Inc.
+     
+     Copyright (c) 2011 Appcelerator, Inc.
+     Copyright (c) 2012 Appcelerator, Inc.
+     Copyright (c) 1999-2006 Apache Software Foundation
+     
+     Copyright (c) 2009 Ryan Dahl
+     Copyright (c) 2009 Donoho Design Group, LLC
+     Copyright (c) 2009-2014 Appcelerator, Inc.
+     
+     Copyright (c) 2010 Yuri Kanivets
+     Copyright (c) 1999-2003 Steve Purcell
+     
+     Copyright (c)  Ryan Dahl
+     Copyright (c) 2009 Appcelerator, Inc.
+     Copyright (c) 2011 Alexander Shtuchkin
+     
+     Copyright (c) 2009 Appcelerator, Inc.
+     Copyright (c) 2013-2014 Appcelerator, Inc.
+     
+     Copyright (c) 2009 John Resig
+     
+     Copyright (c) 2008 Plausible Labs Cooperative, Inc.
+     
+     Copyright (c) 2014-2015 Appcelerator, Inc.
+     
+     Copyright (c) 2011-2013 Appcelerator, Inc.
+     Copyright (c)  W3C
+     
+     Copyright (c) 2011-2012 Appcelerator, Inc.
+     
+     Copyright (c) 2008 Google Inc
+     Copyright (c) 2011 Appcelerator, Inc.
+     Copyright (c) 2006-2010 Anselm Kruis
+     Copyright (c) 2013 Appcelerator, Inc.
+     Copyright (c) 2003-2007 Sun Microsystems, Inc.
+     Copyright (c) 2015 Appcelerator, Inc.
+     Copyright (c) 2008 Matt Gallagher
+     Copyright (c) 2007 James Newton
+     Copyright (c) 2011-2014 Appcelerator, Inc.
+     Copyright (c) 1991-1999 Free Software Foundation, Inc.
+     Copyright (c) 2013 Julian Gruber
+     Copyright (c) 2012 Appcelerator, Inc.
+     
+     Copyright (c) 2009 Appcelerator, Inc.
+     Copyright (c) 2000 World Wide Web Consortium
+     
+     Copyright (c)  individuals
+     
+     
+     Copyright (c) 1999-2008 Apache
+     Copyright (c) 2009-2013 Appcelerator, Inc.
+     
+     Copyright (c) 2006 Apache Software Foundation
+     Copyright (c) 2000-2009 Angel Marin
+     
+     Copyright (c) 2006-2007 Apple Inc
+     Copyright (c) 2014 Appcelerator, Inc.
+     Copyright (c) 2002 Apache Software Foundation
+     Copyright (c) 2009 Apple Inc
+     Copyright (c) 2014 Appcelerator, Inc.
+     
+     
+     Copyright (c) 2011 John Hann
+     Copyright (c) 2014 Appcelerator, Inc.
+     Copyright (c) 2003-2006 The Werken Company
+     Copyright (c) 2009 Ryan Dahl
+     Copyright (c) 2012-2013 contributors
+     Copyright (c)  iD
+     Copyright (c) 2010-2014 Appcelerator, Inc.
+     
+     Copyright (c) 2009-2010 Kristopher Michael Kowal
+     Copyright (c) 2009-2013 Appcelerator, Inc.
+     Copyright (c) 2003-2010 Python
+     Copyright (c) 2010-2012 Appcelerator, Inc.
+     Copyright (c) 2001-2007 Apache Software Foundation
+     Copyright (c) 2009-2011 Appcelerator, Inc.
+     Copyright (c) 2000 logRelay && logRelay.ipAddressList.
+     Copyright (c) 2005-2011 The Dojo Foundation
+     
+     Copyright (c) 2009 Alex Fajkowski
+     Copyright (c)  copyright holders
+     Copyright (c) 2011-2012 Appcelerator, Inc.
+     
+     
+     Copyright (c) 2009-2015 Appcelerator, Inc.
+     Copyright (c)  minsdk
+     Copyright (c) 2005 Nilton Volpato
+     Copyright (c) 1999-2010 Apache Software Foundation
+     Copyright (c) 2006 Big Nerd Ranch, Inc.
+     
+     Copyright (c) 2013-2015 Appcelerator, Inc.
+     Copyright (c) 2012-2013 Appcelerator, Inc.
+     Copyright (c) 2008, 2009, 2010 Apple Inc
+     
+     Copyright (c) 2009 Ryan Dahl
+     Copyright (c) 2012-2014 Appcelerator, Inc.
+     
+     Copyright (c) 2010-2012 Appcelerator, Inc.
+     Copyright (c) 2004-2008 Apache Software Foundation
+     Copyright (c) 2012-2013 Appcelerator, Inc.
+     
+     Copyright (c) 1999 IBM Corporation.
+     Copyright (c) 2000-2009 Paul Johnston
+     
+     Copyright (c)  boolean
+     Copyright (c) 2008 Kelvin W Sherlock
+     Copyright (c) 2009 project authors
+     
+     Copyright (c) 2008-2013 Appcelerator
+     
+     Copyright (c) 2009 The Dojo Foundation
+     
+     Copyright (c) 2003 Sun Microsystems, Inc.
+     Copyright (c) 2008 Alp Toker
+     Copyright (c) 2006 Apple Computer, Inc.
+     Copyright (c) 2011-2012 Appcelerator, Inc.
+     Copyright (c)  Amaya
+     Copyright (c)  ERCIM
+     
+     
+     Copyright (c) 2007-2010 Anselm Kruis
+     Copyright (c) 2012-2014 Appcelerator, Inc.
+     Copyright (c) 2010 Robert Kieffer
+     
+     
+AutoGraph 0.1.15 cocoapods:AutoGraph:0.1.15
+     Copyright (c) 2012-2016 Olivier Halligon
+     
+     Copyright (c) 2012 Olivier Halligon
+     Copyright (c) 2015 Rex
+     
+     
+     Copyright (c) 2011-2016 Realm Inc All
+     Copyright (c) 2014 2014 Realm Inc
+     Copyright (c) 2016 2016 Realm Inc
+     Copyright (c) 2015 2015 Realm Inc
+     Copyright (c) 2016 Sebastian Hagedorn
+     Copyright (c) 2014-2016 Alamofire Software Foundation
+     Copyright (c) 2017 2017 Realm Inc
+Brave Browser brave-ios-1.2.13 github:brave/browser-ios:brave-ios-1.2.13
+     Copyright (c) 2014 Dan Kogai
+     
+     
+     Copyright (c) 2008-2009 Dave DeLong
+     Copyright (c)  Eric Young
+     
+     Copyright (c) 2015 Crashlytics, Inc.
+     
+     
+     
+     Copyright (c) 2006 Pat Thoyts
+     Copyright (c) 2008 ZETETIC LLC
+     Copyright (c) 1994, 1996, 1999, 2002, 2004, 2011 Free Software Foundation,Inc.
+     
+     
+     Copyright (c) 2014 Jason<
+     
+     Copyright (c) 2014 John Gallagher
+     Copyright (c)  RSA Data Security, Inc.
+     Copyright (c)  X
+     
+     Copyright (c) 2010 Arc90 Inc<
+     
+     
+     
+     
+     
+     
+     Copyright (c) 2014 Dan Kogai
+     Copyright (c) 2014 Ryan Fowler
+     Copyright (c) 2014-2015 Stephen Celis
+     
+     
+     
+     Copyright (c) 2014 Rob Rix
+     Copyright (c) 2009 Olivier Poitrey
+     Copyright (c) 2014-2015 Stephen Celis
+     Copyright (c) 2015 Isuru Nanayakkara
+     Copyright (c) 1994 Consortium
+     Copyright (c) 2014 Dave Wood
+     Copyright (c) 1995-1998 Eric Young
+     Copyright (c) 2004, 2005, 2007, 2004 Scott James Remnant
+     Copyright (c) 2008 ZETETIC LLC
+     Copyright (c) 2013 Andrei Stanescu
+     Copyright (c) 2011 Square, Inc.
+     
+     Copyright (c) 2014 Flipboard
+     
+     Copyright (c) 2004, 2005, 2007, 2008, 2004 Gary V. Vaughan
+     Copyright (c) 2007 Korea Information Security Agency
+     
+     Copyright (c) 2008 Free Software Foundation, Inc.
+     
+     
+     Copyright (c) 2014 Rob Rix
+     Copyright (c) 2014-2015 Stephen Celis
+     Copyright (c) 2008 LLCAll
+     
+     
+     
+     
+     
+     Copyright (c)  D
+     
+     
+     
+     
+     Copyright (c) 2008-2014 Flying Meat Inc
+     Copyright (c)  code authors
+     
+     
+     
+     
+     Copyright (c)  X
+     Copyright (c) 2015 Flipboard
+     
+     Copyright (c) 2012-2014 Pierre-Olivier Latour
+     Copyright (c) 2005 Nokia
+     
+     
+     
+     Copyright (c) 2015 Twitter, Inc.
+     Copyright (c) 2002-2005 ActiveState Corporation
+     
+     Copyright (c) 2014 John Gallagher
+     Copyright (c) 2014 Rob Rix
+     Copyright (c) 1991 Massachusetts Institute of Technology
+     Copyright (c)  X
+     
+     
+     
+     Copyright (c)  D
+     Copyright (c) 2011 LevelDB Authors
+     Copyright (c) 2013 Apple Inc
+     Copyright (c) 2013 Apple Inc
+     Copyright (c) 2002 Sun Microsystems, Inc.
+     Copyright (c)  D
+     
+     
+     Copyright (c) 2004, 2005, 2007, 2008, 2004 Gary V. Vaughan
+     
+     Copyright (c) 2012 2012 Square Inc.
+     Copyright (c)  D
+     Copyright (c) 2006 Network Resonance, Inc.
+     
+     Copyright (c) 2015 Flipboard
+     
+     Copyright (c) 2002 David Gravereaux
+     Copyright (c) 2008 ZETETIC LLC
+     
+     
+     
+     
+     Copyright (c) 1999-2000 Ajuba Solutions
+     Copyright (c) 2004-2004 Scott James Remnant
+     
+     
+     Copyright (c) 2014 LevelDB Authors
+     Copyright (c)  A.pExpr
+     Copyright (c) 2011 John Blanco
+     
+     Copyright (c) 2013 Chris Wendel
+     Copyright (c) 2012 LevelDB Authors
+     Copyright (c) 2013 Andrei Stanescu
+     Copyright (c) 2015 Facebook, Inc.
+     Copyright (c)  X
+     Copyright (c) 2007, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 1996, 2008, 1997 Free Software Foundation, Inc.
+     Copyright (c) 2015 Norio Nomura
+     
+     Copyright (c) 2008, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 1996, 1996, 1997 Gordon Matzigkeit
+     Copyright (c) 2014 David Mohundro
+     
+     Copyright (c) 2007, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 1996, 2008 Free Software Foundation, Inc.
+     Copyright (c) 2013 Christopher Wendel
+     
+     Copyright (c) 1995-1997 Eric Young
+     Copyright (c) 2011 SnapKit Team
+     Copyright (c)  X
+     Copyright (c) 2015 Crashlytics, Inc.
+     
+     
+     Copyright (c) 2008-2013 ZETETIC LLC
+CDNByeSDK 1.4.0 github:cdnbye/ios-p2p-engine:1.4.0
+     Copyright (c) 2012-2014 Pierre-Olivier LatourAll
+     Copyright (c) 2017 LLCAll
+     Copyright (c) 2010-2020 LLCAll
+     
+     Copyright (c) 2019 project authors
+     Copyright (c) 2012-2019 Pierre-Olivier Latour
+     Copyright (c) 2016 The WebRTC Project Authors
+     
+     
+     
+     Copyright (c) 2010-2020 Deusty, LLC
+     Copyright (c) 2012 2012 Square Inc.
+     Copyright (c) 2017 project authors
+     Copyright (c) 2015 WebRTC Project Authors
+     Copyright (c) 2016 project authors
+     Copyright (c) 2018 project authors
+     Copyright (c) 2015 project authors
+     Copyright (c) 2017 WebRTC Project Authors
+     
+CHPlugin 3.0.5 github:zoyi/channel-plugin-ios:3.0.5
+     Copyright (c) 2018 Krunoslav Zaher
+     Copyright (c) 2014-2016 Dalton Cherry
+     Copyright (c) 2015 Baris Sencan
+     Copyright (c) 2015 Krunoslav Zaher
+     
+     
+     Copyright (c) 2014-2018 Tobias Tiemerding
+     
+     Copyright (c) 2016 Imanol Fernandez @MortimerGoro
+     
+     Copyright (c) 2016 Contributors
+     Copyright (c) 2015 Telly, Inc.
+     Copyright (c) 2011 SnapKit Team
+     Copyright (c) 2014 Telly, Inc.
+     Copyright (c)  Slack Technologies, Inc.
+     Copyright (c) 2014-2016 Dalton Cherry
+     Copyright (c) 2015 Roy Marmelstein
+     Copyright (c) 2015 Suyeol Jeon
+     
+     
+     Copyright (c) 2016 Krunoslav Zaher
+     
+     Copyright (c) 2014-2016 Alamofire Software Foundation
+     
+     Copyright (c) 2014 Brandon McQuilkin
+     
+     Copyright (c) 2015 jflinter
+     Copyright (c) 2013 Apple Inc
+     Copyright (c) 2017 Joseph Ross
+     
+     Copyright (c) 2013 Apple Inc
+     
+     Copyright (c) 2009-2017 Olivier Poitrey
+     
+     Copyright (c) 2014-2017 Dalton Cherry
+     Copyright (c) 2016 Vinh Nguyen
+     
+     Copyright (c) 2016 Matt Gallagher
+     Copyright (c) 2009-2015 Matej Bukovinski
+     Copyright (c) 2017-2018 Tobias Tiemerding
+     Copyright (c) 2017 Ruoyu Fu
+     Copyright (c) 2016 Imanol Fernandez @MortimerGoro
+     
+     
+     
+     Copyright (c) 2016 Team
+     Copyright (c) 2014 Mazyad Alabduljaleel
+     Copyright (c) 2012 Marius Landwehr marius.landwehr@gmail.com
+     Copyright (c) 2013 Brandon McQuilkin
+     Copyright (c) 2014-2017 Pinglin Tang
+     Copyright (c) 2014-2016 Slack Technologies
+     
+     Copyright (c) 2014-2015 Erik Little
+     Copyright (c) 2015 Benjamin Encz
+     Copyright (c) 2017 Krunoslav Zaher
+     
+     
+     Copyright (c) 2014-2018 Guillaume Campagna
+     Copyright (c) 2014 Team
+     Copyright (c) 2011-2018 Sam Vermette
+     Copyright (c) 2015 Jack Flintermann
+     
+     
+     
+     
+     Copyright (c) 2017 Suyeol Jeon
+     Copyright (c) 2014-2015 Collin Ruffenach
+     Copyright (c) 2016 Roy Marmelstein
+     Copyright (c) 2010 Michael Waterfall
+     Copyright (c) 2013 Cezary Wojcik
+     Copyright (c) 2014-2016 Flipboard
+     Copyright (c) 2017 Haeun Chung
+     
+     Copyright (c) 2013-2015 Flipboard
+     Copyright (c) 2015 Krunoslav Zaher
+     Copyright (c) 2016 Marius Landwehr marius.landwehr@gmail.com
+     Copyright (c) 2011-2018 contributors
+     Copyright (c) 2011 __MyCompanyName__
+     
+     Copyright (c) 2016 Benjamin Encz
+     Copyright (c) 2012 __MyCompanyName__
+     Copyright (c) 2014 Collin Ruffenach
+     Copyright (c) 2015 Roy Marmelstein
+     Copyright (c) 2012 Daniel Amitay
+     Copyright (c) 2014 Shout Messenger
+     Copyright (c) 2014-2018 Alamofire Software Foundation
+CRDeviceGUID 1.0.1 cocoapods:CRDeviceGUID:1.0.1
+     
+     Copyright (c) 2010-2014 Sam Soffes
+     
+     Copyright (c) 2010-2016 Sam Soffes
+     
+     Copyright (c) 2013-2014 Sam Soffes
+CYXiang/CYXTenMinDemo 20180727-snapshot-a0b2b760 github:CYXiang/CYXTenMinDemo:a0b2b760d5b419bbaef031b0efe5b26421613070
+     Copyright (c) 2012 Justin Spahr-Summers
+     Copyright (c) 2014-2016 Tobias Tiemerding
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     Copyright (c) 2014-2016 Guillaume Campagna
+     Copyright (c) 2016 Tobias Tiemerding
+     
+     
+     
+     
+     
+     
+     Copyright (c) 2016 Dailymotion
+     Copyright (c) 2011-2016 contributors
+     Copyright (c) 2014 GitHub, Inc.
+     Copyright (c) 2012 GitHub, Inc.
+     Copyright (c) 2011-2016 Sam Vermette
+     Copyright (c) 2013 GitHub, Inc.
+     Copyright (c) 2012 Cody Krieger
+     
+     
+     
+     Copyright (c) 2011-2016 Square, Inc
+     
+     Copyright (c) 2012 Justin Spahr-Summers
+     
+     
+     
+     
+     
+     
+Calabash-server 0.14.0 github:calabash/calabash-ios-server:0.14.0
+     
+     Copyright (c) 2013 Sam Soffes
+     Copyright (c) 2004-2014 contributors
+     Copyright (c) 2014 Xamarin
+     Copyright (c) 2015 Jonathan M. Reid
+     Copyright (c) 2015 Jonathan M. Reid
+     
+     
+     Copyright (c) 2010-2011 Quasidea Development, LLC
+     Copyright (c) 2013 Inkling Systems, Inc.
+     
+     Copyright (c) 2013 Xamarin
+     Copyright (c) 2014 contributors
+     Copyright (c) 2012 Xamarin
+     
+     Copyright (c) 2014 LICENSE.
+     Copyright (c) 2009-2014 contributors
+     Copyright (c) 2011 Jonathan Wight
+     Copyright (c) 1997, 1998, 2000, 2001, 2004, 2010 Steve Nygard
+     Copyright (c) 2007-2014 contributors
+     Copyright (c) 2012 Peter Jihoon Kim
+     
+     
+     Copyright (c) 2010 LLCAll
+     
+     
+     Copyright (c) 2011 LLCAll
+     
+     Copyright (c) 2010-2013 Sam Soffes
+     
+     
+     Copyright (c) 2011 Xamarin
+     
+     Copyright (c) 2010-2013 Sam Soffes
+     Copyright (c) 2015 Jonathan M. Reid
+     Copyright (c) 2009 Peter Hosey
+Chromium (Google Chrome) r84548 unknown:undefined
+     	Copyright (C) 2007, 2008, 2009 Rob Buis <buis@kde.org>
+     Copyright (c) 2009 Stefano Sabatini
+     
+     Copyright (c) 2009 Maxime Simon
+     Copyright (c) 1999-2008 others
+     Copyright (c) 2001 Jarkko Hietaniemi
+     Copyright (c) 2006-2008 Nikolas Zimmermann
+     
+     Copyright (c) 2003, 2008, 2010 Apple Inc
+     Copyright (c) 2010 Company 100, Inc.
+     Copyright (c) 1995-1996 Guy Eric Schalnat
+     
+     	Copyright (C) 2004, 2005 Rob Buis <buis@kde.org>
+     Copyright (c) 2000-2001 Fabrice Bellard
+     Copyright (c) 2008-2009 Sascha Sommer
+     Copyright (c) 2008-2010 Google Inc
+     Copyright (c) 2005 M
+     Copyright (c) 2003, 2006, 2008, 2009 Apple Inc
+     Copyright (c) 2000 Bastian Kleineidam
+     Copyright (c) 2008-2008/11/20 Thomas Linder Puls
+     Copyright (c) 2004 Google Inc
+     Copyright (c) 1999-2006 MIYASAKA Masaru
+     Copyright (c) 1998 Netscape Communications Corporation.
+     
+     Copyright (c) 2003 Max Krasnyansky
+     Copyright (c) 2010 others
+     Copyright (c) 2003 Ivan Kalvachev
+     Copyright (c) 2004-2005 BRIAN PAUL
+     Copyright (c) 2001-2005 Cisco Systems, Inc.
+     Copyright (c) 2007 Nicholas Tung
+     Copyright (c) 2009 others
+     Copyright (c) 2003, 2004, 2005, 2006, 2009 Apple Inc
+     Copyright (c) 1999-2000 Russ Allbery
+     Copyright (c) 2006 NTT
+     Copyright (c) 2010 Google
+     
+     Copyright (c) 2007 Marc Hoffman
+     
+     Copyright (c) 2008 Red Hat Inc
+     Copyright (c) 1998 Gerald Combs
+     
+     Copyright (c) 2006 Baptiste Coudurier
+     Copyright (c) 2002 Jason Evans
+     Copyright (c) 2008 Michael Niedermayer
+     Copyright (c) 2004-2004/06/04 Nigel McNie
+     Copyright (c) 2007-2008 Peter Ross
+     Copyright (c) 2002-2006 IBM
+     Copyright (c) 2007 Apple Inc
+     Copyright (c)  Gary Pennington
+     Copyright (c) 2003 Alex Beregszaszi
+     
+     Copyright (c) 2003-2007 Apple Inc
+     Copyright (c) 2004-2006 Authors
+     Copyright (c) 2008-2009 Google Inc
+     Copyright (c) 2003-2005 Peter Astrand
+     
+     Copyright (c) 2010-2011 Research In Motion Limited
+     Copyright (c) 2005-2008 Google Inc
+     Copyright (c) 2008 Benjamin Larsson
+     Copyright (c) 2007 Paul Barker
+     Copyright (c) 2010-2011 Apple Inc
+     Copyright (c) 1998-2006 others
+     Copyright (c) 1999-2009 Apple Inc
+     Copyright (c) 2003-2007 Apple Inc
+     Copyright (c) 2004 Nicolai Haehnle
+     
+     Copyright (c) 1991, 2000, 2001 Lucent Technologies
+     Copyright (c) 2005 David Turner
+     Copyright (c) 2004, 2005, 2006, 2010 Apple Inc
+     Copyright (c) 2007-2008 Bartlomiej Wolowiec
+     Copyright (c) 2002-2004 Michael Niedermayer
+     Copyright (c) 2008-2010 others
+     Copyright (c) 2010 University of Szeged
+     
+     Copyright (c) 2004 ActiveState
+     Copyright (c) 2008 Google Inc
+     Copyright (c) 2002-2007 others
+     Copyright (c) 2002-2006 Python Software Foundation
+     Copyright (c) 1998 Todd C. Miller
+     Copyright (c) 2008-2008/07/07 Milian Wolff
+     Copyright (c) 1999-2002 Brian Paul All Rights Reserved
+     Copyright (c) 2005-2006 Apple Inc
+     Copyright (c) 2009 SIL International
+     Copyright (c) 2003-2007 others
+     Copyright (c) 2004-2004/08/30 Roberto Rossi
+     Copyright (c) 2008-2009 Nokia Corporation
+     Copyright (c) 2000-2001 ATI Technologies Inc.
+     
+     Copyright (c) 2010-2011 Sencha, Inc.
+     Copyright (c) 2007 Justin Haygood
+     Copyright (c) 2008 Google Inc
+     Copyright (c) 2004 Google Inc
+     Copyright (c) 2010 others
+     Copyright (c) 1995-1996 Lincoln D. Stein
+     Copyright (c) 2002 Remi Guyomarch
+     
+     Copyright (c) 2002-2006 Audrey Tang E
+     Copyright (c)  author
+     Copyright (c) 2006 Benjamin Larsson
+     Copyright (c) 2010 Corbin Simpson
+     Copyright (c) 2005 Fabrice Bellard
+     Copyright (c) 2009 VMware, Inc.
+     Copyright (c) 2007 Dick Franks
+     Copyright (c) 2004-2006 Michael Niedermayer
+     Copyright (c) 2007 Red Hat, Inc.
+     Copyright (c) 2010 others
+     Copyright (c) 1991-1996 Lucent Technologies
+     Copyright (c) 1993-1999 Kim Lam
+     Copyright (c) 1995-2010 Mark Adler
+     Copyright (c) 2008 others
+     Copyright (c) 2004-2004/08/30 Roberto Rossi
